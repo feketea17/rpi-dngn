@@ -1,0 +1,106 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "tsx/tileset_weapons_animated.tsx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "tileset_grounds.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "tmx/level-1.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 2,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 145,
+                "y": 65.75
+            }
+        },
+        "tmx/level-test.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 3,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 162.5,
+                "y": 135
+            }
+        },
+        "tmx/tileset_gamepad.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/tileset_grounds.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "tsx/tileset_props.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/tileset_props_animated.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "tsx/tileset_walls.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "tsx/tileset_weapons_animated.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/ui_gamepad.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/ui_hud.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "frame.defaultDuration": 100,
+    "last.imagePath": "C:/Users/Vidra/Documents/Pygame/python-2d-game-boy-dungeon/images",
+    "map.height": 15,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 20,
+    "openFiles": [
+        "tmx/level-1.tmx",
+        "tsx/tileset_grounds.tsx",
+        "tsx/tileset_walls.tsx",
+        "tsx/tileset_props.tsx",
+        "tsx/tileset_props_animated.tsx",
+        "tsx/ui_hud.tsx",
+        "tsx/ui_gamepad.tsx",
+        "tsx/tileset_weapons_animated.tsx"
+    ],
+    "project": "dungeon.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "tmx/level-1.tmx",
+        "tsx/tileset_grounds.tsx",
+        "tsx/tileset_walls.tsx",
+        "tsx/tileset_props.tsx",
+        "tsx/tileset_props_animated.tsx",
+        "tsx/ui_hud.tsx",
+        "tsx/ui_gamepad.tsx",
+        "tsx/tileset_weapons_animated.tsx",
+        "tmx/level-test.tmx",
+        "tmx/tileset_gamepad.tsx",
+        "tileset_grounds.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 48,
+        "width": 48
+    }
+}
